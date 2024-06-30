@@ -1,0 +1,19 @@
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\bin\Debug\Eczane Otomasyonu.exe.config
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\bin\Debug\Eczane Otomasyonu.exe
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\bin\Debug\Eczane Otomasyonu.pdb
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.csprojAssemblyReference.cache
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Properties.Resources.resources
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.exe
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane Otomasyonu.pdb
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Frm_Hasta_Kaydı.resources
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Frm_Hasta_Listesi.resources
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Frm_Hasta_Sil.resources
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Frm_Hasta_Güncelle.resources
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Frm_İlaç_Kaydı.resources
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Frm_İlaç_Listele.resources
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Frm_İlaç_Sil.resources
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Frm_İlaç_Güncelle.resources
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Frm_Anasayfa.resources
+C:\Users\ibrahim\Desktop\Eczane Otomasyonu\Eczane Otomasyonu\Eczane Otomasyonu\obj\Debug\Eczane_Otomasyonu.Frm_Sigorta_Ekle.resources
